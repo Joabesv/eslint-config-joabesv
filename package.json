@@ -1,6 +1,6 @@
 {
   "name": "@joabesv/style-guide",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "private": false,
   "description": "Some eslint configs",
   "homepage": "https://github.com/joabesv/eslint-config-joabesv#readme",
