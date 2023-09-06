@@ -1,0 +1,13 @@
+{
+  "name": "@joabesv/style-guide",
+  "version": "0.0.1",
+  "description": "Some eslint configs",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "author": "Joabe Varjao <joabe.dev@joabesv.com>",
+  "license": "MIT"
+}
