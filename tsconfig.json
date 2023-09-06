@@ -1,5 +1,4 @@
 {
-  "$schema": "https://json.schemastore.org/tsconfig",
   "compilerOptions": {
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
@@ -8,6 +7,6 @@
     "skipLibCheck": true,
     "strict": true
   },
-  "include": ["."],
+  "include": ["**/*.js"],
   "exclude": ["node_modules", "dist"]
 }
