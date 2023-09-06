@@ -7,6 +7,6 @@
     "skipLibCheck": true,
     "strict": true
   },
-  "include": ["prettier", "eslint"],
+  "include": ["prettier", "eslint", ".eslintrc.js"],
   "exclude": ["node_modules", "dist"]
 }
